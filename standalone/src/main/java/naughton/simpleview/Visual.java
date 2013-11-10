@@ -1,4 +1,4 @@
-package naughton.standalone;
+package naughton.simpleview;
 
 import hudson.Extension;
 import hudson.model.AllView;
